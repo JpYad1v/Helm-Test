@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  maven-delicious-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-25T08:07:28.640802668Z"
+    description: A Helm chart for Kubernetes
+    digest: ed3c4abf29c428d927dc7177e08b3297e3a9aa4c460b4c2de422673e3938d0bb
+    name: maven-delicious-chart
+    type: application
+    urls:
+    - https://jpyad1v.github.io/Helm-Test/maven-delicious-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-25T08:07:28.639359231Z"
